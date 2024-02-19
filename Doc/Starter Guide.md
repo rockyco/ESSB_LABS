@@ -52,13 +52,15 @@
 
 
 
-![[Pasted image 20240215105632.png]]
+![Pasted image 20240215105632](https://github.com/rockyco/ESSB_Labs/assets/13341030/db791ab5-b1ca-43a7-aa61-49c101bf66f2)
+
 ***<p style="text-align: center;">Pinout diagram of ATMEGA328</p>***
 
 <br/>
 <br/>
 
-![[Pasted image 20240215213226.png]]
+![Pasted image 20240215213226](https://github.com/rockyco/ESSB_Labs/assets/13341030/4acd7f06-b29a-48a7-a4b1-2809f5a11cf3)
+
 ***<p style="text-align: center;">Pinout diagram of PIC16F877A</p>***
 
 
